@@ -9,7 +9,6 @@ int posX = 0;
 int incPosX = 1;
 PImage imagenuno, imagendos, imagentres, imagencuatro, imagencinco;
 PFont fuenteuno, fuentedos;
-boolean limiteboton;
 
 void setup(){
   size(640, 480);
