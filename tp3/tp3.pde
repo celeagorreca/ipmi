@@ -12,7 +12,6 @@ void setup(){
   size(800, 400);
   background(15, 42, 145);
   img = loadImage("D_17.jpg");
-  noFill();
   noStroke();
   fondo = color(15, 42, 145);
   rectMode(CENTER);
